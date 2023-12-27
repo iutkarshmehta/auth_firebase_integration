@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129668627258",
+    "project_id": "auth-f0e1d",
+    "storage_bucket": "auth-f0e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129668627258:android:00ca7877cab45422a26e03",
+        "android_client_info": {
+          "package_name": "com.example.auth_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGbmuWVmFz6fDQFbrPJGZC6IUBo7HyaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
